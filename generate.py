@@ -19,4 +19,3 @@ def generate(imagefile, outputfile):
     print("done!")
 
 generate('place.png', 'output.png')
-generate('place.png', 'jahrein-output.png')
